@@ -1,0 +1,16 @@
+{
+    "name": "rev/sway-framework-filters",
+    "description": "SwayFramework Filters Component",
+    "type": "sf-package",
+    "authors": [
+        {
+            "name": "Reverze",
+            "email": "hawkmedia24@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Sway\\Component\\Filter\\": "src/"
+        }
+    }
+}
