@@ -2,7 +2,7 @@
 Filters component for swayframework.
 
 ## Installation
-```php
+```
 composer require rev/sway-filters-component
 ```
 
